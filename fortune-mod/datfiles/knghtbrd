@@ -39,11 +39,6 @@ to a DNS query that was never made.  Fix Information: Run your DNS
 service on a different platform.
         -- BugTraq
 %
-* dpkg hands stu a huge glass of vbeer
-* Joey takes the beer from stu, you're too young ;)
-* Cylord takes the beer from Joey, you're too drunk.
-* Cylord gives the beer to muggles.
-%
 We the people of the Debian GNU/Linux distribution, in order to form a
 more perfect operating system, establish quality, insure marketplace
 diversity, provide for the common needs of computer users, promote

@@ -16,13 +16,6 @@ volunteers, why not run a rinky-dink distro made by a lot of volunteers?
 Packages should build-depend on what they should build-depend.
 		-- Santiago Vila on debian-devel
 %
-There are 3 types of guys -- the ones who hate nerds (all nerds, that
-is; girls aren't let off the hook); the ones who are scared off by girls
-who are slightly more intelligent than average; and the guys who are
-also somewhat more intelligent than average, but are so shy that they
-can't put 2 words together when they're within 20 feet of a girl.
-		-- Vikki Roemer on debian-curiosa
-%
 Debian is the Jedi operating system: "Always two there are, a master and
 an apprentice".
 		-- Simon Richter on debian-devel

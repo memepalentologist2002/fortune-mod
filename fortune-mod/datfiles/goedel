@@ -56,13 +56,7 @@ Don't some of these fortunes just drive you nuts?!
 Wouldn't you like to see some of them deleted from the system?
 You can!  Just mail to `fortune' with the fortune you hate most,
 and we'll make sure it gets expunged.
-%
-Did you know about the -o option of the fortune program?  It makes a
-selection from a set of offensive and/or obscene fortunes.  Why not
-try it, and see how offended you are?  The -a ("all") option will
-select a fortune at random from either the offensive or inoffensive
-set, and it is suggested that "fortune -a" is the command that you
-should have in your .profile or .cshrc. file.
+
 %
 Do not read this fortune under penalty of law.
 Violators will be prosecuted.
