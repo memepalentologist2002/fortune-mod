@@ -76,11 +76,6 @@ debian.
 * joeyh installs debian using only his big toe, for a change of pace
 		-- in #debian-boot
 %
-* liiwi takes the whip and eyes pasc
-< pasc> ohh!!! kinky!
-< pasc> how convenient, I was just about to call in sick at work ;-)
-		-- in #debian-devel
-%
 <dark> Turns out that grep returns error code 1 when there are no matches.
        I KNEW that.  Why did it take me half an hour?
 		-- Seen on #Debian
