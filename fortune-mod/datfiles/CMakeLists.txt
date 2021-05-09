@@ -51,7 +51,4 @@ INSTALL(
     FILES ${_install_unrot_cookies}
     DESTINATION "${LOCALDIR}"
 )
-
-IF (NOT "${NO_OFFENSIVE}")
-    ADD_SUBDIRECTORY("off")
 ENDIF()
