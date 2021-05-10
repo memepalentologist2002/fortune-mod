@@ -293,9 +293,7 @@ SET (COOKIES
     cookie
     definitions
     disclaimer
-    drugs
     education
-    ethnic
     food
     fortunes
     goedel
@@ -307,7 +305,6 @@ SET (COOKIES
     love
     magic
     medicine
-    men-women
     miscellaneous
     news
     people
@@ -328,37 +325,7 @@ SET (COOKIES
     perl
     knghtbrd
     paradoxum
-    zippy
     debian
-)
-
-SET (OFFENSIVE_COOKIES
-    art
-    astrology
-    atheism
-    black-humor
-    cookie
-    debian
-    definitions
-    drugs
-    ethnic
-    fortunes
-    hphobia
-    knghtbrd
-    limerick
-    linux
-    misandry
-    miscellaneous
-    misogyny
-    politics
-    privates
-    racism
-    religion
-    riddles
-    sex
-    songs-poems
-    vulgarity
-    zippy
 )
 
 ADD_SUBDIRECTORY("datfiles")
