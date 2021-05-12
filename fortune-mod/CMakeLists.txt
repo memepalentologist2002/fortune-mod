@@ -92,10 +92,7 @@ SET(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
 SET (WITH_TEST_SUITE CACHE BOOL "")
 SET (NO_OFFENSIVE CACHE BOOL "Exclude the offensive option.")
 SET (LOCALDIR "${CMAKE_INSTALL_PREFIX}/local/share/games/fortunes" CACHE STRING "LOCALDIR fortunes dir")
-SET (LOCALODIR "${LOCALDIR}/off" CACHE STRING "offensive fortunes localdir")
 SET (COOKIEDIR "${CMAKE_INSTALL_PREFIX}/share/games/fortunes" CACHE STRING  "cookie dir not under /usr/local")
-SET (OCOOKIEDIR "${COOKIEDIR}/off" CACHE STRING "offensive cookie dir not under /usr/local")
-
 SHLOMIF_ADD_COMMON_C_FLAGS()
 
 # add_flags("-Weverything" "-Wno-language-extension-token" "-Wno-padded")
