@@ -4,56 +4,26 @@
 
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/0pbvqd1xa7777aoo/branch/master?svg=true)](https://ci.appveyor.com/project/shlomif/fortune-mod/branch/master)
 
-This GitHub repository maintains the sources for fortune-mod, a
+This Git repository maintains the sources for an expurgated version of fortune-mod, a
 version of
 [the UNIX fortune command](https://en.wikipedia.org/wiki/Fortune_%28Unix%29).
 `fortune` is a command-line utility which displays a random quotation from a
 collection of quotes. This collection is read from the local [file system](https://en.wikipedia.org/wiki/File_system)
 and does not require network access. A large collection of quotes is provided in
 the download and installed by default, but more quote collections can be added
-by the user.
+by the user. The repo is based on https://github.com/shlomif/fortune-mod
 
-The canonical repository for the time being is:
-https://github.com/shlomif/fortune-mod . In the future, we may create a GitHub
-organization for it and move the sources there.
-
-For more information about it, you can contact
+For more information about the original, you can contact
 [Shlomi Fish](https://www.shlomifish.org/) .
 
 ## Installation
 
-On Fedora and other rpm-based distributions:
-
-```
-sudo dnf install fortune-mod
-```
-
-On Arch Linux and derivatives:
-
-```
-sudo pacman -S fortune-mod
-```
-
-On Debian, and derivatives (e.g: Ubuntu, Linux Mint):
-
-```
-sudo apt install fortune-mod
-```
-
-(Warning: may be an old version.)
+You must compile it from source. (for the time being)
 
 ## Release Tarballs
 
-Release tarballs can be found at [this directory](https://www.shlomifish.org/open-source/projects/fortune-mod/arcs/)
-for now.
+Release tarballs are coming soon.
 
-Based on [this reported bug](https://github.com/shlomif/fortune-mod/issues/10):
-
-One can find the official release tarballs of fortune-mod as prepared by CPack
-there. They have a proper containing directory. One can also download these tarballs
-from the [GitHub releases page](https://github.com/shlomif/fortune-mod/releases)
-but please do not use the auto generated “Source code (zip)” and “Source code (tar.gz)”
-downloads which are both incomplete and have extra directories inside.
 
 ## Sample usage
 
@@ -103,7 +73,7 @@ Secondly, you can find some reimplementations of fortune here:
 * [python](https://github.com/bmc/fortune)
 
 You may be able to get them to work with the data files of fortune-mod and
-other fortune collections, but note that we have not closely reviewed their
+other fortune collections, but note that I have not closely reviewed their
 source codes.
 
 Thirdly, most of the value (and relative data size) of the tarball is in the
@@ -186,3 +156,5 @@ by a set of patches on the Fedora package.
 * [Shlomi Fish’s Fortune Cookie Files](https://www.shlomifish.org/humour/fortunes/) - on his site, containing links to many other collections of fortune cookies.
 * [XML-Grammar-Fortune](https://web-cpan.shlomifish.org/modules/XML-Grammar-Fortune/) - an XML grammar for collections of quotes, allowing one to generate XHTML or plaintext.
 * [Anvari.org’s web interface to fortune](http://www.anvari.org/fortune/) - with many collections.
+
+Credit to Shlomi Fish, for the original repo.
