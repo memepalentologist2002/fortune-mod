@@ -139,6 +139,7 @@ by a set of patches on the Fedora package.
 
 18. Reformatted the C code using [clang-format](https://clang.llvm.org/docs/ClangFormat.html).
 
+19. Mostly expurgated the datfiles.
 # What remains to be done.
 
 1. See if there are any more downstream patches to apply.
@@ -151,6 +152,7 @@ by a set of patches on the Fedora package.
 
 5. Prepare packages for the new releases for [downstream distributions/Operating Systems](https://pkgs.org/download/fortune-mod).
 
+6. Finish expurgating the datfiles.
 # Links
 
 * [Shlomi Fish’s Fortune Cookie Files](https://www.shlomifish.org/humour/fortunes/) - on his site, containing links to many other collections of fortune cookies.
