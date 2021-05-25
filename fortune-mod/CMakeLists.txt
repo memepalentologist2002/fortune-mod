@@ -215,7 +215,7 @@ MACRO(_fortune__generate_docbook basename offensive_flags)
     SET (_my_man_page "${_my_man_page_dir}/${_dest_basename}.man")
     SET (_my_man_docbook "${_my_man_page_dir}/${basename}.docbook5.xml")
     SET (_my_man_prog "${_my_man_page_dir}/gen-fortune-docbook-page.pl")
-    SET (_my_args "${_my_man_prog}" "--output" "${_my_man_docbook}" --cookiedir "[[cookiedir_placeholder]]" --ocookiedir "[[ocookiedir_placeholder]]" ${offensive_flags})
+    SET (_my_args "${_my_man_prog}" "--output" "${_my_man_docbook}" --cookiedir "[[cookiedir_placeholder]]"
     ADD_CUSTOM_COMMAND(
         OUTPUT "${_my_man_docbook}"
         COMMAND "${PERL_EXECUTABLE}"
@@ -235,7 +235,6 @@ MACRO(_fortune__generate_docbook basename offensive_flags)
     LIST(APPEND _my_man_pages_list "${_my_man_page}")
 ENDMACRO()
 
-_fortune__generate_docbook("fortune_with_offensive" "")
 _fortune__generate_docbook("fortune_without_offensive" "--without-offensive")
 
 MACRO(_fortune__generate_manpage basename)
