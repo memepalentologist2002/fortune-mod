@@ -18,6 +18,8 @@ This is fortune-mod-1.99.1. It's a pre-release for
 fortune-mod-2.0. This should give interested parties a chance to have
 a look at the changes that have come in, and the new features.
 
+Keep in mind that this outdated, and you should take a look at README.md
+
 Fortune-mod now leaves at http://www.redellipse.net/code/fortune. You
 can find the CVS repository at
 http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/fortune/?cvsroot=fortune
