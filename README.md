@@ -160,3 +160,4 @@ by a set of patches on the Fedora package.
 * [Anvari.org’s web interface to fortune](http://www.anvari.org/fortune/) - with many collections.
 
 Credit to Shlomi Fish, for the original repo.
+Also, if anyone thinks a fortune should be removed, tell me.
