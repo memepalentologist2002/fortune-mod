@@ -23,15 +23,6 @@ Less is more or less more
 Let's call it an accidental feature.
 	--Larry Wall
 %
-.........    Escape the 'Gates' of Hell
-  `:::'                  .......  ......
-   :::  *                  `::.    ::'
-   ::: .::  .:.::.  .:: .::  `::. :'
-   :::  ::   ::  ::  ::  ::    :::.
-   ::: .::. .::  ::.  `::::. .:'  ::.
-...:::.....................::'   .::::..
-	-- William E. Roadcap
-%
 Win95 is not a virus; a virus does something.
 	-- unknown source
 %
@@ -43,9 +34,6 @@ Great Britain's toplevel domain should be _gb_.  Instead, Great Britain
 and Nortern Ireland (the United Kingdom) use the toplevel domain _uk_.
 They drive on the wrong side of the road, too.
 	-- PERL book (or DNS and BIND book)
-%
-Save yourself from the 'Gates' of hell, use Linux."  -- like that one.
-	-- The_Kind @ LinuxNet
 %
 I did this 'cause Linux gives me a woody.  It doesn't generate revenue.
 	-- Dave '-ddt->` Taylor, announcing DOOM for Linux
@@ -101,9 +89,6 @@ a compile.
 %
 We are MicroSoft.  You will be assimilated.  Resistance is futile.
 		-- Attributed to B.G., Gill Bates
-%
-Avoid the Gates of Hell.  Use Linux
-		-- unknown source
 %
 Intel engineering seem to have misheard Intel marketing strategy.  The
 phrase was "Divide and conquer" not "Divide and cock up"
@@ -822,9 +807,6 @@ removed the floor under your bed." - Unix for Dummies, 2nd Edition
 C is quirky, flawed, and an enormous success
 	-- Dennis M. Ritchie
 %
-If Bill Gates is the Devil then Linus Torvalds must be the Messiah.
-	-- Unknown source
-%
 Vini, vidi, Linux!
 	-- Unknown source
 %
@@ -1177,7 +1159,7 @@ vi is [[13~^[[15~^[[15~^[[19~^[[18~^ a
 muk[^[[29~^[[34~^[[26~^[[32~^ch better editor than this emacs. I know
 I^[[14~'ll get flamed for this but the truth has to be
 said. ^[[D^[[D^[[D^[[D ^[[D^[^[[D^[[D^[[B^
-exit ^X^C quit :x :wq dang it :w:w:w :x ^C^C^Z^D
+exit ^X^C quit :x :wq :w:w:w :x ^C^C^Z^D
 	-- Jesper Lauridsen <rorschak@daimi.aau.dk> from alt.religion.emacs
 %
 oh okay. my mistake.
@@ -1197,9 +1179,6 @@ apache: dl-version.c:189:
  _dl_check_map_versions: Assertion `needed != ((void *)0)' failed
 noooooooooooooooooooooooooooo
 	-- netgod on #Debian at LISC
-%
-Make it idiot-proof, and someone will breed a better idiot.
-	-- Oliver Elphick
 %
 #Debian makes me feel all warm and fuzzy inside. :)
 	-- HippieGuy on #Debian
