@@ -1,4 +1,4 @@
-# fortune-mod Maintenance Version and Ongoing Development
+# expurgated-fortune-mod Maintenance Version and Ongoing Development
 
 [![Travis-CI Build Status](https://travis-ci.org/shlomif/fortune-mod.svg?branch=master)](https://travis-ci.org/shlomif/fortune-mod)
 
@@ -22,7 +22,7 @@ You must compile it from source. (for the time being)
 
 ## Release Tarballs
 
-Release tarballs are coming soon.
+Release tarballs are in Canvas but downloads can be found here: https://docs.google.com/document/d/16Am0UjVJ2-GtrFHu9kJGggBD1mx0YrsR0NqrrtmQsN0/edit
 
 
 ## Sample usage
