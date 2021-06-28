@@ -1,9 +1,10 @@
-fortune-mod's Credits, Authors, and Contributors
+expurgated-fortune-mod's Credits, Authors, and Contributors
 ==========================================
-Shlomi Fish <shlomif@cpan.org>
-:Date: 2020-02-27
+Khoi Nguyen <nguyenan@iwacc.org>
+:Date: 2021-06-27
 :Revision: $Id$
 
+* Khoi M. Nguyen - Starting and maintaining expurgated-fortune-mod.
 * https://www.shlomifish.org/[Shlomi Fish]: maintaining fortune-mod
 from version 2.0.0 onwards.
 
