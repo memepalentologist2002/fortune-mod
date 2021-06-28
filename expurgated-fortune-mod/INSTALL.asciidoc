@@ -6,7 +6,7 @@ Shlomi Fish <shlomif@cpan.org>
 Quick and Dirty Compilation
 ---------------------------
 
-fortune-mod uses CMake ( http://www.cmake.org/ )
+expurgated-fortune-mod uses CMake ( http://www.cmake.org/ )
 for its build system. Version 3.2 or later is required.
 
 You will also need:
@@ -58,4 +58,4 @@ To test fortune-mod, you need to:
 
 3. Run "make check".
 
-Please report any errors to me ( http://www.shlomifish.org/me/contact-me/ ).
+Please report any errors to Shlomi Fish ( http://www.shlomifish.org/me/contact-me/ ) or me (nguyenan@iwacc.org).
