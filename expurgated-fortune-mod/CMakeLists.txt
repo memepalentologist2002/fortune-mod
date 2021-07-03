@@ -47,10 +47,10 @@ IF(WIN32 AND NOT UNIX)
     # sure there is at least one set of four (4) backlasshes.
     SET(CPACK_PACKAGE_ICON "${CMAKE_SOURCE_DIR}\\\\dondorf-king.bmp")
     SET(CPACK_NSIS_INSTALLED_ICON_NAME "bin\\\\fortune.exe")
-    SET(CPACK_NSIS_HELP_LINK "http:\\\\\\\\github.com\\\\shlomif\\\\fortune-mod")
-    SET(CPACK_NSIS_URL_INFO_ABOUT  "http:\\\\\\\\github.com\\\\shlomif\\\\fortune-mod")
+    SET(CPACK_NSIS_HELP_LINK "http:\\\\\\\\github.com\\\\memepaleontologist2002\\\\expurgated-fortune-mod")
+    SET(CPACK_NSIS_URL_INFO_ABOUT  "http:\\\\\\\\github.com\\\\memepaleontologist2002\\\\expurgated-fortune-mod")
     SET(CPACK_NSIS_DISPLAY_NAME "fortune-mod")
-    SET(CPACK_NSIS_CONTACT "shlomif@shlomifish.org")
+    SET(CPACK_NSIS_CONTACT "nguyenan@iwacc.org")
     SET(CPACK_NSIS_MODIFY_PATH ON)
     # Setting for NSIS :
     SET(CPACK_NSIS_MUI_ICON "${CMAKE_CURRENT_SOURCE_DIR}\\\\fc-solve.ico")
